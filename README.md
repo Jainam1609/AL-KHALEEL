@@ -1,6 +1,6 @@
 # ALKHALEEL: A CORPUS-BASED LEARNING TOOL FOR ARABIC
 
-Abstract
+# Abstract
 Language learning has been greatly facilitated by the availability of electronic resources. In particular,
 electronic dictionaries, corpora, concordances, and word frequency lists have been very helpful for
 language teachers and learners at the same time. In this paper we introduce an innovative tool that
